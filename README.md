@@ -1,2 +1,2 @@
 # LispExercises
-Lisp Games from Land of Lisp by Conrad Barski
+Games from Land of Lisp by Conrad Barski
